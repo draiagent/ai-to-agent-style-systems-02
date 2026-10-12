@@ -1,0 +1,115 @@
+{
+  "name": "ai-to-agent-style-systems-02",
+  "version": "0.1.0",
+  "date": "2026-10-12",
+  "license": "reserved",
+  "next_style_id": "AS-019",
+  "collections": [
+    {
+      "id": "02",
+      "name": "AS Collection 02",
+      "path": "collections/02/README.md",
+      "styles": [
+        {
+          "id": "AS-010",
+          "name": "澄光琉璃",
+          "english_name": "LUMIFLOW",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-010/SPEC.md",
+          "prompt": "collections/02/styles/AS-010/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-010/P01.png",
+          "card": "collections/02/cards/02.png"
+        },
+        {
+          "id": "AS-011",
+          "name": "莓紫緞結",
+          "english_name": "KNOT",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-011/SPEC.md",
+          "prompt": "collections/02/styles/AS-011/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-011/P01.png",
+          "card": "collections/02/cards/03.png"
+        },
+        {
+          "id": "AS-012",
+          "name": "焦茶裁字",
+          "english_name": "UMBER",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-012/SPEC.md",
+          "prompt": "collections/02/styles/AS-012/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-012/P01.png",
+          "card": "collections/02/cards/04.png"
+        },
+        {
+          "id": "AS-013",
+          "name": "棗拱金珠",
+          "english_name": "ALCOVE",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-013/SPEC.md",
+          "prompt": "collections/02/styles/AS-013/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-013/P01.png",
+          "card": "collections/02/cards/05.png"
+        },
+        {
+          "id": "AS-014",
+          "name": "青盒赭扣",
+          "english_name": "CLASP",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-014/SPEC.md",
+          "prompt": "collections/02/styles/AS-014/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-014/P01.png",
+          "card": "collections/02/cards/06.png"
+        },
+        {
+          "id": "AS-015",
+          "name": "紫金對開",
+          "english_name": "FOLIO",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-015/SPEC.md",
+          "prompt": "collections/02/styles/AS-015/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-015/P01.png",
+          "card": "collections/02/cards/07.png"
+        },
+        {
+          "id": "AS-016",
+          "name": "絳青疊瓣",
+          "english_name": "VESICA",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-016/SPEC.md",
+          "prompt": "collections/02/styles/AS-016/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-016/P01.png",
+          "card": "collections/02/cards/08.png"
+        },
+        {
+          "id": "AS-017",
+          "name": "紫銅經緯",
+          "english_name": "LOOM",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-017/SPEC.md",
+          "prompt": "collections/02/styles/AS-017/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-017/P01.png",
+          "card": "collections/02/cards/09.png"
+        },
+        {
+          "id": "AS-018",
+          "name": "青釉金繕",
+          "english_name": "CELADON & GILT",
+          "collection": "02",
+          "spec_version": "v0.1",
+          "spec": "collections/02/styles/AS-018/SPEC.md",
+          "prompt": "collections/02/styles/AS-018/PROMPT.md",
+          "source_cover": "collections/02/sources/AS-018/P01.png",
+          "card": "collections/02/cards/10.png"
+        }
+      ]
+    }
+  ]
+}

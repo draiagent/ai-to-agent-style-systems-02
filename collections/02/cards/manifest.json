@@ -1,0 +1,72 @@
+[
+  {
+    "page": 1,
+    "path": "collections/02/cards/01.png",
+    "sha256": "c8d04f1a9fad68daf3f5cbe43872608764ca1fafc9cf606fa518c478dd691fcb",
+    "generation_file": "exec-cb1d22e9-608f-4221-8258-79c55600551e.png",
+    "revision": "initial"
+  },
+  {
+    "page": 2,
+    "path": "collections/02/cards/02.png",
+    "sha256": "5e391a18defb81c038f1041f31f59aca67d1a43057b7468fbfaf6ff1093f376a",
+    "generation_file": "exec-74314bce-0310-45de-8927-3a1cc741c44f.png",
+    "revision": "initial"
+  },
+  {
+    "page": 3,
+    "path": "collections/02/cards/03.png",
+    "sha256": "0c2133e43ce3cd0cb548c5dd6be02f952a20a00620d6127159f2d6247eab3b00",
+    "generation_file": "exec-6be0cdb0-082c-41e7-85cd-fe54f4970c81.png",
+    "revision": "initial"
+  },
+  {
+    "page": 4,
+    "path": "collections/02/cards/04.png",
+    "sha256": "4d5b120068849be4b2930c1e2a9bf8b55751be8ccd137909b1860e38bfacf878",
+    "generation_file": "exec-2df1b50d-2b9f-40a4-913e-349e982c7503.png",
+    "revision": "initial"
+  },
+  {
+    "page": 5,
+    "path": "collections/02/cards/05.png",
+    "sha256": "64d4fc7972c7279fded694823a8a83432ab53a2bf45950fb5a20777f83205840",
+    "generation_file": "exec-358ea9ee-2c30-4d0e-af0b-b73401c55000.png",
+    "revision": "initial"
+  },
+  {
+    "page": 6,
+    "path": "collections/02/cards/06.png",
+    "sha256": "085e220648fb35484e4d923c5465179d74b6b056d434d18a930274bc711be33a",
+    "generation_file": "exec-8ec26033-782f-4e65-b000-1d773428f728.png",
+    "revision": "initial"
+  },
+  {
+    "page": 7,
+    "path": "collections/02/cards/07.png",
+    "sha256": "140dc224f170beb00bd8661a5037bd9ec0ca7d046bcd5deab486e276cc75d5a5",
+    "generation_file": "exec-bd85d45b-cdbf-457b-a379-fb6550a02e8a.png",
+    "revision": "initial"
+  },
+  {
+    "page": 8,
+    "path": "collections/02/cards/08.png",
+    "sha256": "29430bacaaf7c039156f6d5af75a8ba8eaeaf06ea3a1a9eaf72e3a3a1af90042",
+    "generation_file": "exec-425ca8b3-199c-45b5-9836-5c93be0b3f8e.png",
+    "revision": "initial"
+  },
+  {
+    "page": 9,
+    "path": "collections/02/cards/09.png",
+    "sha256": "37e569143c97987b2ab2f6ffa1178c5f581ef01bc9abbe3d21052a0a15461c37",
+    "generation_file": "exec-17e92b5e-24a8-4930-bb91-ec5bd986809a.png",
+    "revision": "final-revised"
+  },
+  {
+    "page": 10,
+    "path": "collections/02/cards/10.png",
+    "sha256": "7411a036387372544a0260f6f44def65d4da79553f863a9fd643b0c66e693f49",
+    "generation_file": "exec-8f905e0a-d67f-4c2d-8205-77ef5f55b824.png",
+    "revision": "initial"
+  }
+]
